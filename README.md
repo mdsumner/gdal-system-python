@@ -19,7 +19,7 @@ the baseline gets `uv pip install` at runtime.
 
 ## Quick start
 
-NOTE that '<owner>' is left in as a place holder, to build and use this image you'll need to check the names used here. 
+NOTE that '\<owner\>' is left in as a place holder, to build and use this image you'll need to check the names used here. 
 
 
 ```sh
